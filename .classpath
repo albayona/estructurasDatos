@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="archivosCSV/src"/>
+	<classpathentry kind="src" path="archivosJSON/src"/>
+	<classpathentry kind="src" path="archivosXML/src"/>
+	<classpathentry kind="src" path="box/src"/>
+	<classpathentry kind="src" path="EjercicioListaEncadenada/src"/>
+	<classpathentry kind="src" path="generics/src"/>
+	<classpathentry kind="src" path="ordenamientosBasicos/src"/>
+	<classpathentry kind="lib" path="C:/Users/andre/Downloads/opencsv-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andre/Downloads/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andre/Downloads/gson-2.8.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
